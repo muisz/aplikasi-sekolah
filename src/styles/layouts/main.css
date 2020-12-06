@@ -1,0 +1,41 @@
+.wrapper  {
+    /* background-color: #179c34; */
+    display: grid;
+    grid-template-columns: 20% 80%;
+    height: 100vh;
+}
+
+.cs-sider {
+    max-width: 288px;
+    background-color: #fff;
+    box-shadow: 0 0 1px black;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 1em;
+}
+
+.logo img {
+    width: 50%;
+}
+
+.cs-headers {
+    background-color: #179c34;
+    padding: 5px;
+    padding-left: 15px;
+}
+
+.cs-main-page {
+    height: 88vh;
+    padding: 15px;
+}
+
+.cs-footer {
+    height: 7vh;
+    width: 98%;
+    margin: auto;
+    padding: 15px;
+    border-radius: 3px;
+    background-color: #fff;
+}

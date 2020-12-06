@@ -4,9 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import IndexPage from './routes';
+
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <IndexPage />
   </React.StrictMode>,
   document.getElementById('root')
 );
