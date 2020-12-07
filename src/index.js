@@ -8,7 +8,7 @@ import IndexPage from './routes';
 
 ReactDOM.render(
   <React.StrictMode>
-    <IndexPage />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
