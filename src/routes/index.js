@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {} from 'antd';
+import { Button } from 'antd';
 
 import MainLayout from '../layouts/main';
 
@@ -15,7 +15,6 @@ class IndexPage extends Component {
                     background: '#fff',
                     padding: '15px'
                 }}>
-                    testing
                 </div>
             </MainLayout>
         );
